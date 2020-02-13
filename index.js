@@ -48,10 +48,11 @@ prompt([
     
     fs.writeFile('README.md', ` 
 
-    ![alt text](${data.items[0].owner.avatar_url})
+    <img src="${data.items[0].owner.avatar_url}" alt="${userName}">
+    
     GIT hub user name: ${userName}
     ---
-    Repo name: ${repoName}
+    # Repo name: ${repoName}
     Description: ${data.items[0].description}
     Installation: ${installation}
     Usage: ${usage}

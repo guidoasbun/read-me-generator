@@ -1,15 +1,16 @@
  
 
-    ![alt text](https://avatars1.githubusercontent.com/u/42722843?v=4)
+    <img src="https://avatars1.githubusercontent.com/u/42722843?v=4" alt="guidoasbun">
+    
     GIT hub user name: guidoasbun
     ---
-    Repo name: read-me-generator
+    # Repo name: read-me-generator
     Description: Creates a readme.md file
-    Installation: run $node index.js from terminal
-    Usage: It is used for creating a README.md file with GIT information
+    Installation: 
+    Usage: 
     License: null
-    Contributing: no
-    Tests: yes
-    Questions: no
+    Contributing: 
+    Tests: 
+    Questions: 
     
     
